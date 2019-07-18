@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823183543424",
+    "firebase_url": "https://socialpescaapplicaton.firebaseio.com",
+    "project_id": "socialpescaapplicaton",
+    "storage_bucket": "socialpescaapplicaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823183543424:android:6cc5d46f9ef3d6df",
+        "android_client_info": {
+          "package_name": "com.example.socialpesca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823183543424-tpnfk3s9h8mlegvh2vesrtg2l7hiormm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQ97C6Qz_deFs7V3lE9MrdymD0gWRPlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823183543424-tpnfk3s9h8mlegvh2vesrtg2l7hiormm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
